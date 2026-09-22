@@ -1,0 +1,6 @@
+{
+  "name": "Tadaruk",
+  "description": "Comprehensive Islamic prayer companion, Salat & Qaza recovery manager, fasting tracker, and daily worship assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
